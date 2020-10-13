@@ -1,0 +1,15 @@
+.breadcrumb{
+	background-color: white !important;
+	height: 40px !important; 
+}
+.breadcrumb-item > a{
+	color: black !important; 
+}
+.nav-link
+{
+	color: white !important;
+}
+.footer{
+	color: white !important;
+	text-align: center !important;
+}

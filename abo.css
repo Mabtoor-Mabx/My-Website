@@ -1,0 +1,22 @@
+.breadcrumb{
+	background-color: white !important;
+	height: 40px !important; 
+}
+.breadcrumb-item > a{
+	color: black !important; 
+}
+.nav-link
+{
+	color: white !important;
+}
+.about-section{
+    background-color : lightslategray  !important;
+    color: white !important;
+}
+.for5 > a{
+    color: white !important;
+}
+.footer{
+	color: white !important;
+	text-align: center !important;
+}

@@ -1,0 +1,25 @@
+.nav-link
+{
+	color: white !important;
+}
+.breadcrumb-item > a{
+	color: black !important; 
+}
+.mr-3{
+	width: 280px !important;
+	height: 150px !important;
+	
+}
+
+.list-unstyled{
+background-color: black !important;
+	color: white !important;
+}
+.footer{
+	color: white !important;
+	text-align: center !important;
+}
+.breadcrumb{
+	background-color: white !important;
+	height: 40px !important; 
+}

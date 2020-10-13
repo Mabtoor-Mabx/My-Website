@@ -1,0 +1,22 @@
+.nav-link
+{
+	color: white !important;
+}
+.card-img{
+    height: 590px !important;
+}
+.card-body{
+    background-color: gray !important;
+    color: honeydew !important;
+}
+.footer{
+	color: white !important;
+	text-align: center !important;
+}
+.breadcrumb{
+	background-color: white !important;
+	height: 40px !important; 
+}
+.breadcrumb-item > a{
+	color: black !important; 
+}
